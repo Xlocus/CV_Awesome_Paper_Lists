@@ -12,5 +12,7 @@
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391)
 2. 
 
-
+## Self-Supervised Vision Transformer
+1. [An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.02057)
+2. 
 
