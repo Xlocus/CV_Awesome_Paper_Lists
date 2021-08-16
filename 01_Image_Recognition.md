@@ -8,7 +8,8 @@
 3. [Conformer: Local Features Coupling Global Representations for Visual Recognition](https://arxiv.org/abs/2105.03889) (2021)
 4. [Co-Scale Conv-Attentional Image Transformers](https://arxiv.org/abs/2104.06399) (2021)
 5. [Mobile-Former: Bridging MobileNet and Transformer](https://arxiv.org/abs/2108.05895) (2021)
-6. 
+6. [Scalable Visual Transformers with Hierarchical Pooling](https://arxiv.org/abs/2103.10619) (2021)
+7. 
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
