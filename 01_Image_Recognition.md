@@ -1,6 +1,6 @@
 # Image Recognition
 ## Convolution
-1. 
+1. [An Attention Module for Convolutional Neural Networks](https://arxiv.org/abs/2108.08205) (2021)
 
 ## Transformer
 1. [PSViT: Better Vision Transformer via Token Pooling and Attention Sharing](https://arxiv.org/abs/2108.03428) (2021)
