@@ -24,4 +24,7 @@
 
 ## Neural Architecture Search
 1. [Searching for Efficient Multi-Stage Vision Transformers](https://arxiv.org/abs/2109.00642v1) (2021)
+
+## Others
+1. [Tune It or Don’t Use It: Benchmarking Data-Efficient Image Classification](https://arxiv.org/abs/2108.13122) (ICCV 2021)
 2. 
