@@ -27,4 +27,5 @@
 
 ## Others
 1. [Tune It or Don’t Use It: Benchmarking Data-Efficient Image Classification](https://arxiv.org/abs/2108.13122) (ICCV 2021)
-2. 
+2. [A Battle of Network Structures: An Empirical Study of CNN, Transformer, and MLP](https://arxiv.org/abs/2108.13002) (2021)
+3. 
