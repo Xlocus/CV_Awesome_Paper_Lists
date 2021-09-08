@@ -1,7 +1,10 @@
 # Semantic Segmentation
 ## Convolution
 1. [ISNet: Integrate Image-Level and Semantic-Level Context for Semantic Segmentation](https://arxiv.org/abs/2108.12382) (ICCV 2021)
-2. 
+2. [Mining Contextual Information Beyond Image for Semantic Segmentation](https://arxiv.org/abs/2108.11819) (ICCV2021)
+3. 
+
+
 ## Transformer
 1. [SOTR: Segmenting Objects with Transformers](https://arxiv.org/abs/2108.06747) (ICCV 2021)
 2. 
