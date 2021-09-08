@@ -11,7 +11,7 @@
 5. [Mobile-Former: Bridging MobileNet and Transformer](https://arxiv.org/abs/2108.05895) (2021)
 6. [Scalable Visual Transformers with Hierarchical Pooling](https://arxiv.org/abs/2103.10619) (2021)
 7. [Exploring and Improving Mobile Level Vision Transformers](https://arxiv.org/abs/2108.13015) (2021)
-8. 
+8. [CMT: Convolutional Neural Networks Meet Vision Transformers](https://arxiv.org/abs/2107.06263) (2021)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
