@@ -9,3 +9,7 @@
 1. [Evidential Deep Learning for Open Set Action Recognition](https://arxiv.org/abs/2107.10161) (ICCV 2021 Oral)
 2. 
 
+## Real-World Super Resolution
+1. [Toward Real-World Super-Resolution via Adaptive Downsampling Models](https://arxiv.org/abs/2109.03444) (TPAMI 2021)
+
+
