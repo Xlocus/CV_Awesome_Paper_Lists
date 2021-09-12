@@ -17,6 +17,7 @@
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
 2. [RaftMLP: Do MLP-based Models Dream of Winning Over Computer Vision?](https://arxiv.org/abs/2108.04384) (2021)
 3. [Hire-MLP: Vision MLP via Hierarchical Rearrangement](https://arxiv.org/abs/2108.13341) (2021)
+4. [Sparse-MLP: A Fully-MLP Architecture with Conditional Computation](https://arxiv.org/abs/2109.02008) (2021)
 
 ## Self-Supervised Vision Transformer
 1. [An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.02057) (2021)
