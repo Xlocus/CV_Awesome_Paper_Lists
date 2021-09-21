@@ -5,4 +5,6 @@
 4. [Rethinking the Aligned and Misaligned Features in One-stage Object Detection](https://arxiv.org/abs/2108.12176) (2021)
 5. [MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning using an Anchor Free Approach](https://arxiv.org/abs/2108.05060) (ICCV 2021)
 6. [Anchor DETR: Query Design for Transformer-Based Detector](https://arxiv.org/abs/2109.07107) (2021)
+7. [Mutual Supervision for Dense Object Detection](https://arxiv.org/abs/2109.05986) (ICCV 2021)
+8. 
  
