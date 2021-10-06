@@ -18,6 +18,7 @@
 11. [Focal Self-attention for Local-Global Interactions in Vision Transformers](https://arxiv.org/abs/2107.00641) (2021)
 12. [Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length](https://arxiv.org/abs/2105.15075) (2021)
 13. [Bottleneck Transformers for Visual Recognition](https://arxiv.org/abs/2101.11605) (2021)
+14. [Efficient Training of Visual Transformers with Small-Size Datasets](https://arxiv.org/abs/2106.03746) (2021)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
