@@ -15,6 +15,7 @@
 8. [CMT: Convolutional Neural Networks Meet Vision Transformers](https://arxiv.org/abs/2107.06263) (2021)
 9. [CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention](https://arxiv.org/abs/2108.00154) (2021)
 10. [Global Filter Networks for Image Classification](https://arxiv.org/abs/2107.00645) (2021)
+11. [Focal Self-attention for Local-Global Interactions in Vision Transformers](https://arxiv.org/abs/2107.00641) (2021)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
