@@ -8,6 +8,11 @@
 7. [Mutual Supervision for Dense Object Detection](https://arxiv.org/abs/2109.05986) (ICCV 2021)
 8. 
  
+ 
+ ## Language Modeling
+1. [Pix2seq: A Language Modeling Framework for Object Detection](https://arxiv.org/abs/2109.10852) (2021)
+
+ 
 ## Self-Supervised Learning
 1. [Localizing Objects with Self-Supervised Transformers and no Labels](https://arxiv.org/abs/2109.14279) (2021)
 
