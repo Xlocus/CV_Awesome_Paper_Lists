@@ -48,5 +48,8 @@
 1. [Keep CALM and Improve Visual Feature Attribution](https://arxiv.org/abs/2106.07861) (ICCV 2021)
 2. 
 
+## Fine-grained Visual Recognition
+1. [A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition](https://arxiv.org/abs/2110.01240) (2021)
+
 
 
