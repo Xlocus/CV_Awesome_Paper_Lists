@@ -35,7 +35,7 @@
 
 ## Self-Supervised Vision Transformer
 1. [An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.02057) (2021)
-2. 
+2. [Revitalizing CNN Attentions via Transformers in Self-Supervised Visual Representation Learning](https://arxiv.org/abs/2110.05340) (NeurIPS 2021)
 
 ## Neural Architecture Search
 1. [Searching for Efficient Multi-Stage Vision Transformers](https://arxiv.org/abs/2109.00642v1) (2021)
