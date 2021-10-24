@@ -20,6 +20,7 @@
 ## Self-Supervised Learning
 1. [Localizing Objects with Self-Supervised Transformers and no Labels](https://arxiv.org/abs/2109.14279) (2021)
 
-
+## Active Learning
+1. [Active Learning for Deep Object Detection via Probabilistic Modeling](https://arxiv.org/abs/2103.16130) (ICCV 2021)
 
 
