@@ -21,6 +21,7 @@
 
 ## Self-Supervised Learning
 1. [Localizing Objects with Self-Supervised Transformers and no Labels](https://arxiv.org/abs/2109.14279) (2021)
+2. [Self-Supervised Object Detection via Generative Image Synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Mustikovela_Self-Supervised_Object_Detection_via_Generative_Image_Synthesis_ICCV_2021_paper.pdf) (ICCV 2021)
 
 ## Active Learning
 1. [Active Learning for Deep Object Detection via Probabilistic Modeling](https://arxiv.org/abs/2103.16130) (ICCV 2021)
