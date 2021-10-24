@@ -7,6 +7,7 @@
 6. [Anchor DETR: Query Design for Transformer-Based Detector](https://arxiv.org/abs/2109.07107) (2021)
 7. [Mutual Supervision for Dense Object Detection](https://arxiv.org/abs/2109.05986) (ICCV 2021)
 8. [SimROD: A Simple Adaptation Method for Robust Object Detection](https://arxiv.org/abs/2107.13389) (ICCV 2021 Oral)
+9. [HRFormer: High-Resolution Transformer for Dense Prediction](https://arxiv.org/abs/2110.09408) (NeurIPS 2021)
  
  
  ## Language Modeling
