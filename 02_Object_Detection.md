@@ -6,7 +6,7 @@
 5. [MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning using an Anchor Free Approach](https://arxiv.org/abs/2108.05060) (ICCV 2021)
 6. [Anchor DETR: Query Design for Transformer-Based Detector](https://arxiv.org/abs/2109.07107) (2021)
 7. [Mutual Supervision for Dense Object Detection](https://arxiv.org/abs/2109.05986) (ICCV 2021)
-8. 
+8. [SimROD: A Simple Adaptation Method for Robust Object Detection](https://arxiv.org/abs/2107.13389) (ICCV 2021 Oral)
  
  
  ## Language Modeling
