@@ -23,6 +23,7 @@
 15. [CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification](https://arxiv.org/abs/2103.14899) (ICCV 2021)
 16. [Fastformer: Additive Attention Can Be All You Need](https://arxiv.org/abs/2108.09084) (2021)
 17. [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer](https://arxiv.org/abs/2110.02178) (2021)
+18. [Patches Are All You Need?](https://openreview.net/forum?id=TVHS5Y4dNvM) (ICLR 2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
