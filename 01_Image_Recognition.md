@@ -4,6 +4,7 @@
 2. [Unifying Nonlocal Blocks for Neural Networks](https://arxiv.org/abs/2108.02451) (ICCV 2021)
 3. [PP-LCNet: A Lightweight CPU Convolutional Neural Network](https://arxiv.org/abs/2109.15099) (2021)
 4. [Network Augmentation for Tiny Deep Learning](https://arxiv.org/abs/2110.08890) (2021)
+5. [Recurrence along Depth: Deep Convolutional Neural Networks with Recurrent Layer Aggregation](https://arxiv.org/abs/2110.11852) (NeurIPS 2021)
 
 ## Transformer
 1. [PSViT: Better Vision Transformer via Token Pooling and Attention Sharing](https://arxiv.org/abs/2108.03428) (2021)
