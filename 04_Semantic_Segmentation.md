@@ -3,6 +3,7 @@
 1. [ISNet: Integrate Image-Level and Semantic-Level Context for Semantic Segmentation](https://arxiv.org/abs/2108.12382) (ICCV 2021)
 2. [Mining Contextual Information Beyond Image for Semantic Segmentation](https://arxiv.org/abs/2108.11819) (ICCV2021)
 3. [Vision Transformers for Dense Prediction](https://arxiv.org/abs/2103.13413) (2021)
+4. [K-Net: Towards Unified Image Segmentation](https://arxiv.org/abs/2106.14855) (NeurIPS 2021)
 
 
 ## Transformer
