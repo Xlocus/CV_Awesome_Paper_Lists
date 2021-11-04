@@ -25,6 +25,7 @@
 16. [Fastformer: Additive Attention Can Be All You Need](https://arxiv.org/abs/2108.09084) (2021)
 17. [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer](https://arxiv.org/abs/2110.02178) (2021)
 18. [Patches Are All You Need?](https://openreview.net/forum?id=TVHS5Y4dNvM) (ICLR 2022)
+19. [Blending Anti-Aliasing into Vision Transformer](https://arxiv.org/abs/2110.15156) (NeurIPS 2021)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
