@@ -4,6 +4,7 @@
 2. [Mining Contextual Information Beyond Image for Semantic Segmentation](https://arxiv.org/abs/2108.11819) (ICCV2021)
 3. [Vision Transformers for Dense Prediction](https://arxiv.org/abs/2103.13413) (2021)
 4. [K-Net: Towards Unified Image Segmentation](https://arxiv.org/abs/2106.14855) (NeurIPS 2021)
+5. [Learning Dynamic Routing for Semantic Segmentation](https://arxiv.org/abs/2003.10401) (CVPR 2020 Oral)
 
 
 ## Transformer
