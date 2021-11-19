@@ -19,7 +19,6 @@
 ## Knowledge Distillation
 1. [LGD: Label-guided Self-distillation for Object Detection](https://arxiv.org/abs/2109.11496) (2021)
 
-
 ## Self-Supervised Learning
 1. [Localizing Objects with Self-Supervised Transformers and no Labels](https://arxiv.org/abs/2109.14279) (2021)
 2. [Self-Supervised Object Detection via Generative Image Synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Mustikovela_Self-Supervised_Object_Detection_via_Generative_Image_Synthesis_ICCV_2021_paper.pdf) (ICCV 2021)
