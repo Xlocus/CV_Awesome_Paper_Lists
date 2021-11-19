@@ -35,6 +35,7 @@
 20. [Glance-and-Gaze Vision Transformer](https://arxiv.org/abs/2106.02277) (2021)
 21. [Dynamic Grained Encoder for Vision Transformers](https://openreview.net/forum?id=gnAIV-EKw2) (NeurIPS 2021)
 22. [All Tokens Matter: Token Labeling for Training Better Vision Transformers](https://arxiv.org/abs/2104.10858) (2021)
+23. [Early Convolutions Help Transformers See Better](https://arxiv.org/abs/2106.14881) (NeurIPS 2021)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
