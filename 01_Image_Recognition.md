@@ -47,6 +47,7 @@
 6. [ConvMLP: Hierarchical Convolutional MLPs for Vision](https://arxiv.org/abs/2109.04454) (2021)
 7. [Container: Context Aggregation Network](https://arxiv.org/abs/2106.01401) (NeuIPS 2021)
 8. [An Image Patch is a Wave: Phase-Aware Vision MLP](https://arxiv.org/abs/2111.12294) (2021)
+9. [MetaFormer is Actually What You Need for Vision](https://arxiv.org/abs/2111.11418) (2021)
 
 ## Self-Supervised Vision Transformer
 1. [An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.02057) (2021)
