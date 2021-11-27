@@ -11,5 +11,6 @@
 
 ## Real-World Super Resolution
 1. [Toward Real-World Super-Resolution via Adaptive Downsampling Models](https://arxiv.org/abs/2109.03444) (TPAMI 2021)
+2. [Investigating Tradeoffs in Real-World Video Super-Resolution](https://arxiv.org/abs/2111.12704) (2021)
 
 
