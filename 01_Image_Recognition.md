@@ -38,6 +38,7 @@
 23. [Early Convolutions Help Transformers See Better](https://arxiv.org/abs/2106.14881) (NeurIPS 2021)
 24. [TransMix: Attend to Mix for Vision Transformers](https://arxiv.org/abs/2111.09833) (2021)
 25. [Self-slimmed Vision Transformer](https://arxiv.org/abs/2111.12624) (2021)
+26. [PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers](https://arxiv.org/abs/2111.12710) (2021)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
