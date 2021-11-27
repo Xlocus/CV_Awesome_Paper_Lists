@@ -73,5 +73,9 @@
 ## Fine-grained Visual Recognition
 1. [A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition](https://arxiv.org/abs/2110.01240) (2021)
 
+## Self-supervised
+1. [SiT: Self-supervised vIsion Transformer](https://arxiv.org/abs/2104.03602) (2021)
+
+
 
 
