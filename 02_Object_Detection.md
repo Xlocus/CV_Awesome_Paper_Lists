@@ -12,6 +12,10 @@
 11. 
  
  
+ ## Transformer
+ 1. [Benchmarking Detection Transfer Learning with Vision Transformers](https://arxiv.org/abs/2111.11429) (2021)
+ 
+ 
  ## Language Modeling
 1. [Pix2seq: A Language Modeling Framework for Object Detection](https://arxiv.org/abs/2109.10852) (2021)
 
