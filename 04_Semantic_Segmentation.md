@@ -12,3 +12,5 @@
 1. [SOTR: Segmenting Objects with Transformers](https://arxiv.org/abs/2108.06747) (ICCV 2021)
 2. [SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers](https://arxiv.org/abs/2105.15203) (2021)
 3. [HRViT: Multi-Scale High-Resolution Vision Transformer](https://arxiv.org/abs/2111.01236) (2021)
+4. [SeMask: Semantically Masked Transformers for Semantic Segmentation](https://arxiv.org/abs/2112.12782) (2021)
+5. 
