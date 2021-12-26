@@ -45,6 +45,7 @@
 29. [AdaViT: Adaptive Vision Transformers for Efficient Image Recognition](https://arxiv.org/abs/2111.15668) (2021)
 30. [ATS: Adaptive Token Sampling For Efficient Vision Transformers](https://arxiv.org/abs/2111.15667) (2021)
 31. [Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer](https://arxiv.org/abs/2108.01390) (2021)
+32. [Improved Multiscale Vision Transformers for Classification and Detection](https://arxiv.org/abs/2112.01526) (2021)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
