@@ -42,6 +42,9 @@
 26. [PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers](https://arxiv.org/abs/2111.12710) (2021)
 27. [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/abs/2111.11432) (2021)
 28. [MPViT: Multi-Path Vision Transformer for Dense Prediction](https://arxiv.org/abs/2112.11010) (2021)
+29. [AdaViT: Adaptive Vision Transformers for Efficient Image Recognition](https://arxiv.org/abs/2111.15668) (2021)
+30. [ATS: Adaptive Token Sampling For Efficient Vision Transformers](https://arxiv.org/abs/2111.15667) (2021)
+31. [Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer](https://arxiv.org/abs/2108.01390) (2021)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
