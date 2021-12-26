@@ -1,5 +1,5 @@
 #  Single Object Tracking
 
 ## Transformer
-1. [https://arxiv.org/abs/2112.01527](https://arxiv.org/abs/2112.00995) (2021)
+1. [SwinTrack: A Simple and Strong Baseline for Transformer Tracking](https://arxiv.org/abs/2112.00995) (2021)
 
