@@ -47,6 +47,7 @@
 31. [Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer](https://arxiv.org/abs/2108.01390) (2021)
 32. [Improved Multiscale Vision Transformers for Classification and Detection](https://arxiv.org/abs/2112.01526) (2021)
 33. [TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?](https://arxiv.org/abs/2106.11297) (NeurIPS 2021)
+34. [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254) (2021)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
