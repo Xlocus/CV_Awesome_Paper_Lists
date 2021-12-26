@@ -11,7 +11,7 @@
 6. [Dynamic Region-Aware Convolution](https://arxiv.org/abs/2003.12243) (CVPR 2021)
 7. [Non-deep Networks](https://arxiv.org/abs/2110.07641) (2021)
 8. [Can Vision Transformers Perform Convolution?](https://arxiv.org/abs/2111.01353) (2021)
-9. 
+9. [On the Integration of Self-Attention and Convolution](https://arxiv.org/abs/2111.14556) (2021)
 
 ## Transformer
 1. [PSViT: Better Vision Transformer via Token Pooling and Attention Sharing](https://arxiv.org/abs/2108.03428) (2021)
