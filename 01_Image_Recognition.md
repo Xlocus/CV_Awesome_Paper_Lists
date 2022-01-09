@@ -49,6 +49,9 @@
 32. [Improved Multiscale Vision Transformers for Classification and Detection](https://arxiv.org/abs/2112.01526) (2021)
 33. [TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?](https://arxiv.org/abs/2106.11297) (NeurIPS 2021)
 34. [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254) (2021)
+35. [ELSA: Enhanced Local Self-Attention for Vision Transformer](https://arxiv.org/abs/2112.12786) (2021)
+36. [Lite Vision Transformer with Enhanced Self-Attention](https://arxiv.org/abs/2112.10809) (2021)
+37. [Rethinking Nearest Neighbors for Visual Classification](https://arxiv.org/abs/2112.08459) (2021)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
