@@ -14,6 +14,7 @@
 9. [On the Integration of Self-Attention and Convolution](https://arxiv.org/abs/2111.14556) (2021)
 10. [NAM: Normalization-based Attention Module](https://arxiv.org/abs/2111.12419) (2021)
 11. [Augmenting Convolutional networks with attention-based aggregation](https://arxiv.org/abs/2112.13692) (2021)
+12. [Rethinking Nearest Neighbors for Visual Classification](https://arxiv.org/abs/2112.08459) (2021)
 
 ## Transformer
 1. [PSViT: Better Vision Transformer via Token Pooling and Attention Sharing](https://arxiv.org/abs/2108.03428) (2021)
@@ -52,7 +53,7 @@
 34. [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254) (2021)
 35. [ELSA: Enhanced Local Self-Attention for Vision Transformer](https://arxiv.org/abs/2112.12786) (2021)
 36. [Lite Vision Transformer with Enhanced Self-Attention](https://arxiv.org/abs/2112.10809) (2021)
-37. [Rethinking Nearest Neighbors for Visual Classification](https://arxiv.org/abs/2112.08459) (2021)
+37. [SimViT: Exploring a Simple Vision Transformer with sliding windows](https://arxiv.org/abs/2112.13085) (2021)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
