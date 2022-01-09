@@ -54,6 +54,8 @@
 35. [ELSA: Enhanced Local Self-Attention for Vision Transformer](https://arxiv.org/abs/2112.12786) (2021)
 36. [Lite Vision Transformer with Enhanced Self-Attention](https://arxiv.org/abs/2112.10809) (2021)
 37. [SimViT: Exploring a Simple Vision Transformer with sliding windows](https://arxiv.org/abs/2112.13085) (2021)
+38. [Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention](https://arxiv.org/abs/2112.14000) (2021)
+39. [PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture](https://arxiv.org/abs/2201.00978) (2021)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
