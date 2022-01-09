@@ -9,7 +9,7 @@
 8. [SimROD: A Simple Adaptation Method for Robust Object Detection](https://arxiv.org/abs/2107.13389) (ICCV 2021 Oral)
 9. [HRFormer: High-Resolution Transformer for Dense Prediction](https://arxiv.org/abs/2110.09408) (NeurIPS 2021)
 10. [Dynamic Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/2012.00779) (2021)
-11. 
+11. [TOOD: Task-aligned One-stage Object Detection](https://arxiv.org/abs/2108.07755) (ICCV 2021 Oral)
  
  
  ## Transformer
