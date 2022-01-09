@@ -13,6 +13,7 @@
 8. [Can Vision Transformers Perform Convolution?](https://arxiv.org/abs/2111.01353) (2021)
 9. [On the Integration of Self-Attention and Convolution](https://arxiv.org/abs/2111.14556) (2021)
 10. [NAM: Normalization-based Attention Module](https://arxiv.org/abs/2111.12419) (2021)
+11. [Augmenting Convolutional networks with attention-based aggregation](https://arxiv.org/abs/2112.13692) (2021)
 
 ## Transformer
 1. [PSViT: Better Vision Transformer via Token Pooling and Attention Sharing](https://arxiv.org/abs/2108.03428) (2021)
@@ -87,6 +88,7 @@
 ## Self-supervised
 1. [SiT: Self-supervised vIsion Transformer](https://arxiv.org/abs/2104.03602) (2021)
 
-
+## Small Datasets
+1. [Efficient Training of Visual Transformers with Small Datasets](https://arxiv.org/abs/2106.03746) (2021)
 
 
