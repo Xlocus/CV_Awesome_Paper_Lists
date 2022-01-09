@@ -5,3 +5,4 @@
 4. [Adaptive Focus for Efficient Video Recognition](https://arxiv.org/abs/2105.03245) (ICCV 2021 Oral)
 5. [AdaMML: Adaptive Multi-Modal Learning for Efficient Video Recognition](https://arxiv.org/abs/2105.05165) (2021)
 6. [Efficient Video Transformers with Spatial-Temporal Token Selection](https://arxiv.org/abs/2111.11591) (2021)
+7. [AdaFocus V2: End-to-End Training of Spatial Dynamic Networks for Video Recognition](https://arxiv.org/abs/2112.14238) (2021)
