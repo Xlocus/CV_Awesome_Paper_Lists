@@ -15,6 +15,7 @@
 10. [NAM: Normalization-based Attention Module](https://arxiv.org/abs/2111.12419) (2021)
 11. [Augmenting Convolutional networks with attention-based aggregation](https://arxiv.org/abs/2112.13692) (2021)
 12. [Rethinking Nearest Neighbors for Visual Classification](https://arxiv.org/abs/2112.08459) (2021)
+13. [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545) (2022)
 
 ## Transformer
 1. [PSViT: Better Vision Transformer via Token Pooling and Attention Sharing](https://arxiv.org/abs/2108.03428) (2021)
