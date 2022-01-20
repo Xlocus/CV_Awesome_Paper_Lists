@@ -15,3 +15,4 @@
 3. [HRViT: Multi-Scale High-Resolution Vision Transformer](https://arxiv.org/abs/2111.01236) (2021)
 4. [SeMask: Semantically Masked Transformers for Semantic Segmentation](https://arxiv.org/abs/2112.12782) (2021)
 5. [Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention](https://arxiv.org/abs/2201.01615) (2021)
+6. [Pyramid Fusion Transformer for Semantic Segmentation](https://arxiv.org/abs/2201.04019) (2022)
