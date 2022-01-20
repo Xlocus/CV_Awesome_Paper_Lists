@@ -58,6 +58,7 @@
 38. [Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention](https://arxiv.org/abs/2112.14000) (2021)
 39. [PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture](https://arxiv.org/abs/2201.00978) (2021)
 40. [Vision Transformer with Deformable Attention](https://arxiv.org/abs/2201.00520) (2021)
+41. [QuadTree Attention for Vision Transformers](https://arxiv.org/abs/2201.02767) (2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
