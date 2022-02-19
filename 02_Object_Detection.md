@@ -11,6 +11,7 @@
 10. [Dynamic Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/2012.00779) (2021)
 11. [TOOD: Task-aligned One-stage Object Detection](https://arxiv.org/abs/2108.07755) (ICCV 2021 Oral)
 12. [GraphFPN: Graph Feature Pyramid Network for Object Detection](https://arxiv.org/abs/2108.00580) (ICCV 2021)
+13. [GiraffeDet: A Heavy-Neck Paradigm for Object Detection](https://arxiv.org/abs/2202.04256v1) (2022)
  
  
  ## Transformer
