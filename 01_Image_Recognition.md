@@ -72,6 +72,7 @@
 8. [An Image Patch is a Wave: Phase-Aware Vision MLP](https://arxiv.org/abs/2111.12294) (2021)
 9. [MetaFormer is Actually What You Need for Vision](https://arxiv.org/abs/2111.11418) (2021)
 10. [CycleMLP: A MLP-like Architecture for Dense Prediction](https://arxiv.org/abs/2107.10224) (2022)
+11. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2022)
 
 ## Self-Supervised Vision Transformer
 1. [An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.02057) (2021)
