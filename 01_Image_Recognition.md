@@ -19,6 +19,7 @@
 14. [Omni-Dimensional Dynamic Convolution](https://openreview.net/forum?id=DmpCfq6Mg39) (ICLR 2022)
 15. [You Only Cut Once: Boosting Data Augmentation with a Single Cut](https://arxiv.org/abs/2201.12078) (2022)
 16. [Revisiting Dynamic Convolution via Matrix Decomposition](https://arxiv.org/abs/2103.08756) (ICLR 2021)
+17. [Omnivore: A Single Model for Many Visual Modalities](https://arxiv.org/abs/2201.08377) (2022)
 
 ## Transformer
 1. [PSViT: Better Vision Transformer via Token Pooling and Attention Sharing](https://arxiv.org/abs/2108.03428) (2021)
