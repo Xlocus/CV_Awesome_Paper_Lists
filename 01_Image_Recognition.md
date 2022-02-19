@@ -63,6 +63,7 @@
 40. [Vision Transformer with Deformable Attention](https://arxiv.org/abs/2201.00520) (2021)
 41. [QuadTree Attention for Vision Transformers](https://arxiv.org/abs/2201.02767) (2022)
 42. [Aggregating Global Features into Local Vision Transformer](https://arxiv.org/abs/2201.12903) (2022)
+43. [Training Vision Transformers with Only 2040 Images](https://arxiv.org/abs/2201.10728) (2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
