@@ -13,6 +13,7 @@
 12. [GraphFPN: Graph Feature Pyramid Network for Object Detection](https://arxiv.org/abs/2108.00580) (ICCV 2021)
 13. [GiraffeDet: A Heavy-Neck Paradigm for Object Detection](https://arxiv.org/abs/2202.04256v1) (2022)
 14. [Aligning Pretraining for Detection via Object-Level Contrastive Learning](https://arxiv.org/abs/2106.02637) (NeurIPS 2021 spotlight)
+15. [FreeSOLO: Learning to Segment Objects without Annotations](https://arxiv.org/abs/2202.12181) (2022)
  
  
  ## Transformer
