@@ -68,6 +68,7 @@
 43. [Training Vision Transformers with Only 2040 Images](https://arxiv.org/abs/2201.10728) (2022)
 44. [MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition](https://arxiv.org/abs/2201.08383) (2022)
 45. [Q-ViT: Fully Differentiable Quantization for Vision Transformer](https://arxiv.org/abs/2201.07703) (2022)
+46. [ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond](https://arxiv.org/abs/2202.10108) (2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
