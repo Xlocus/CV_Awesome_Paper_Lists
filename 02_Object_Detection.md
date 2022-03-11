@@ -38,4 +38,5 @@
 
 ## Others
 1. [CDNet: A Real-Time and Robust Crosswalk Detection Network on Jetson Nano Based on YOLOv5](https://rdcu.be/cHuc8) (Neural Computing and Application)
+2. [It's About Time: Analog Clock Reading in the Wild](https://arxiv.org/abs/2111.09162) (2022)
 
