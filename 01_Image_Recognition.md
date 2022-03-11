@@ -105,6 +105,7 @@
 
 ## Self-supervised
 1. [SiT: Self-supervised vIsion Transformer](https://arxiv.org/abs/2104.03602) (2021)
+2. [Crafting Better Contrastive Views for Siamese Representation Learning](https://arxiv.org/abs/2202.03278) (CVPR 2022)
 
 ## Small Datasets
 1. [Efficient Training of Visual Transformers with Small Datasets](https://arxiv.org/abs/2106.03746) (2021)
