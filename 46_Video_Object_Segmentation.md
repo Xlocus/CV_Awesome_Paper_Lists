@@ -4,5 +4,5 @@
 3. [Joint Inductive and Transductive Learning for Video Object Segmentation](https://arxiv.org/abs/2108.03679) (ICCV 2021)
 4. [Mask2Former for Video Instance Segmentation](https://arxiv.org/abs/2112.10764) (2021)
 5. [SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation](https://arxiv.org/abs/2112.08275) (2021)
-6. [End-to-End Referring Video Object Segmentation with Multimodal Transformers](https://arxiv.org/abs/2111.14821) (CVPR 2022)
+6. [End-to-End Referring Video Object Segmentation with Multimodal Transformers](https://arxiv.org/abs/2111.14821) (2022)
 
