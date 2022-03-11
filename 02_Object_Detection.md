@@ -27,6 +27,7 @@
 
 ## Knowledge Distillation
 1. [LGD: Label-guided Self-distillation for Object Detection](https://arxiv.org/abs/2109.11496) (2021)
+2. [Localization Distillation for Dense Object Detection](https://arxiv.org/abs/2102.12252) (2022)
 
 ## Self-Supervised Learning
 1. [Localizing Objects with Self-Supervised Transformers and no Labels](https://arxiv.org/abs/2109.14279) (2021)
