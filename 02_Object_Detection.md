@@ -35,4 +35,6 @@
 ## Active Learning
 1. [Active Learning for Deep Object Detection via Probabilistic Modeling](https://arxiv.org/abs/2103.16130) (ICCV 2021)
 
+## Others
+1. [CDNet: A Real-Time and Robust Crosswalk Detection Network on Jetson Nano Based on YOLOv5](https://rdcu.be/cHuc8) (Neural Computing and Application)
 
