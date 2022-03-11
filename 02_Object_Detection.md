@@ -19,6 +19,7 @@
  ## Transformer
  1. [Benchmarking Detection Transfer Learning with Vision Transformers](https://arxiv.org/abs/2111.11429) (2021)
  2. [A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation](https://arxiv.org/abs/2112.09747) (2021)
+ 3. [D^2ETR: Decoder-Only DETR with Computationally Efficient Cross-Scale Attention](https://arxiv.org/abs/2203.00860) (2022)
  
  
  ## Language Modeling
