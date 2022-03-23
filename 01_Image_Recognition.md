@@ -72,6 +72,7 @@
 46. [ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond](https://arxiv.org/abs/2202.10108) (2022)
 47. [MPViT: Multi-Path Vision Transformer for Dense Prediction](https://arxiv.org/abs/2112.11010) (2022)
 48. [EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers](https://arxiv.org/abs/2203.03952) (2022)
+49. [ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer](https://arxiv.org/abs/2203.10790) (2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
