@@ -4,6 +4,7 @@
 2. [Voxel Transformer for 3D Object Detection](https://arxiv.org/abs/2109.02497) (ICCV 2021)
 3. [An End-to-End Transformer Model for 3D Object Detection](https://arxiv.org/abs/2109.08141) (ICCV 2021)
 4. [SASA: Semantics-Augmented Set Abstraction for Point-based 3D Object Detection](https://arxiv.org/abs/2201.01976) (2022)
+5. [DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection](https://arxiv.org/abs/2203.08195) (CVPR 2022)
 
 ## Monocular 3D Object Detection
 1. [Progressive Coordinate Transforms for Monocular 3D Object Detection](https://arxiv.org/abs/2108.05793) (ICCV 2021)
