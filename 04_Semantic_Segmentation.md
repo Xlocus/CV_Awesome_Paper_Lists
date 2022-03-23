@@ -8,6 +8,7 @@
 6. [CFPNet: Channel-wise Feature Pyramid for Real-Time Semantic Segmentation](https://arxiv.org/abs/2103.12212) (ICIP 2021)
 7. [Hierarchical Multi-Scale Attention for Semantic Segmentation](https://arxiv.org/abs/2005.10821) (2021)
 8. [Tree Energy Loss: Towards Sparsely Annotated Semantic Segmentation](https://arxiv.org/abs/2203.10739) (CVPR 2022)
+9. [Rethink Dilated Convolution for Real-time Semantic Segmentation](https://arxiv.org/abs/2111.09957) (2022)
 
 
 ## Transformer
