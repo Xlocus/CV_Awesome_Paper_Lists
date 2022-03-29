@@ -6,3 +6,4 @@
 5. [Disentangling Light Fields for Super-Resolution and Disparity Estimation](https://arxiv.org/abs/2202.10603) (IEEE TPAMI 2022)
 6. [Blind Image Super Resolution with Semantic-Aware Quantized Texture Prior](https://arxiv.org/abs/2202.13142) (2022)
 7. [A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution](https://arxiv.org/abs/2203.09388) (CVPR 2022)
+8. [Rich CNN-Transformer Feature Aggregation Networks for Super-Resolution](https://arxiv.org/abs/2203.07682) (2022)
