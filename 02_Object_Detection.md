@@ -15,6 +15,7 @@
 14. [Aligning Pretraining for Detection via Object-Level Contrastive Learning](https://arxiv.org/abs/2106.02637) (NeurIPS 2021 spotlight)
 15. [FreeSOLO: Learning to Segment Objects without Annotations](https://arxiv.org/abs/2202.12181) (2022)
 16. [HybridNets: End-to-End Perception Network](https://arxiv.org/abs/2203.09035) (2022)
+17. [A Dual Weighting Label Assignment Scheme for Object Detection](https://arxiv.org/abs/2203.09730) (CVPR 2022)
  
  
  ## Transformer
