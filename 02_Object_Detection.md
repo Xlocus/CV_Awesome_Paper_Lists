@@ -17,6 +17,7 @@
 16. [HybridNets: End-to-End Perception Network](https://arxiv.org/abs/2203.09035) (2022)
 17. [A Dual Weighting Label Assignment Scheme for Object Detection](https://arxiv.org/abs/2203.09730) (CVPR 2022)
 18. [Object Localization under Single Coarse Point Supervision](https://arxiv.org/abs/2203.09338) (CVPR 2022)
+19. [Exploring Plain Vision Transformer Backbones for Object Detection](https://arxiv.org/abs/2203.16527) (2022)
  
  
  ## Transformer
