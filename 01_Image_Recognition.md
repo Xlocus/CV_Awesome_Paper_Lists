@@ -81,6 +81,7 @@
 51. [Visual Prompt Tuning](https://arxiv.org/abs/2203.12119) (2022)
 52. [DaViT: Dual Attention Vision Transformers](https://arxiv.org/abs/2204.03645) (2022)
 53. [DeiT III: Revenge of the ViT](https://arxiv.org/abs/2204.07118) (2022)
+54. [Shunted Self-Attention via Multi-Scale Token Aggregation](https://arxiv.org/abs/2111.15193) (CVPR 2022 Oral)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
