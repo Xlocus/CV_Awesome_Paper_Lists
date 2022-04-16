@@ -24,6 +24,7 @@
 19. [AlignMix: Improving representation by interpolating aligned features](https://arxiv.org/abs/2103.15375) (2022)
 20. [Coordinate Attention for Efficient Mobile Network Design](https://arxiv.org/abs/2103.02907) (CVPR 2021)
 21. [Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs](https://arxiv.org/abs/2203.06717) (CVPR 2022)
+22. [On the Integration of Self-Attention and Convolution](https://arxiv.org/abs/2111.14556) (CVPR 2022)
 
 ## Transformer
 1. [PSViT: Better Vision Transformer via Token Pooling and Attention Sharing](https://arxiv.org/abs/2108.03428) (2021)
