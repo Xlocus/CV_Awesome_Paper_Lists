@@ -79,6 +79,7 @@
 49. [ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer](https://arxiv.org/abs/2203.10790) (2022)
 50. [Visualizing and Understanding Patch Interactions in Vision Transformer](https://arxiv.org/abs/2203.05922) (2022)
 51. [Visual Prompt Tuning](https://arxiv.org/abs/2203.12119) (2022)
+52. [DaViT: Dual Attention Vision Transformers](https://arxiv.org/abs/2204.03645) (2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
