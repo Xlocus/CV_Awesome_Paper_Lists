@@ -5,3 +5,4 @@
 4. [PCT: Point cloud transformer](https://arxiv.org/abs/2012.09688) (2021)
 5. [4D-Net for Learned Multi-Modal Alignment](https://arxiv.org/abs/2109.01066) (ICCV 2021)
 6. [PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413) (2022)
+7. [Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds](https://arxiv.org/abs/2203.11139) (CVPR 2022)
