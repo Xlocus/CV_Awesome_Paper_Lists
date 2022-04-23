@@ -26,6 +26,7 @@
 21. [Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs](https://arxiv.org/abs/2203.06717) (CVPR 2022)
 22. [On the Integration of Self-Attention and Convolution](https://arxiv.org/abs/2111.14556) (CVPR 2022)
 23. [Online Convolutional Re-parameterization](https://arxiv.org/abs/2204.00826) (CVPR 2022)
+24. [ResT V2: Simpler, Faster and Stronger](https://arxiv.org/abs/2204.07366) (2022)
 
 ## Transformer
 1. [PSViT: Better Vision Transformer via Token Pooling and Attention Sharing](https://arxiv.org/abs/2108.03428) (2021)
