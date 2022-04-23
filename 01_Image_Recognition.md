@@ -83,6 +83,7 @@
 53. [DeiT III: Revenge of the ViT](https://arxiv.org/abs/2204.07118) (2022)
 54. [Shunted Self-Attention via Multi-Scale Token Aggregation](https://arxiv.org/abs/2111.15193) (CVPR 2022 Oral)
 55. [MetaFormer is Actually What You Need for Vision](https://arxiv.org/abs/2111.11418) (2022)
+56. [VSA: Learning Varied-Size Window Attention in Vision Transformers](https://arxiv.org/abs/2204.08446) (2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
