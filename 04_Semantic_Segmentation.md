@@ -23,6 +23,7 @@
 
 ## Semi-Supervised
 1. [ST++: Make Self-training Work Better for Semi-supervised Semantic Segmentation](https://arxiv.org/abs/2106.05095) (CVPR 2022)
+2. [Self-Supervised Learning of Object Parts for Semantic Segmentation](https://arxiv.org/abs/2204.13101) (CVPR 2022)
 
 
 ## Weekly-Supervised
