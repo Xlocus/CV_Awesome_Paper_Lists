@@ -5,4 +5,5 @@
 4. [Restormer: Efficient Transformer for High-Resolution Image Restoration](https://arxiv.org/abs/2111.09881) (CVPR 2022)
 5. [Invertible Image Rescaling](https://arxiv.org/abs/2005.05650) (2022)
 6. [Simple Baselines for Image Restoration](https://arxiv.org/abs/2204.04676) (2022)
+7. [Deep Generalized Unfolding Networks for Image Restoration](https://arxiv.org/abs/2204.13348) (CVPR 2022)
 
