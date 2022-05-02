@@ -92,6 +92,7 @@
 61. [Understanding The Robustness in Vision Transformers](https://arxiv.org/abs/2204.12451) (2022)
 62. [Neighborhood Attention Transformer](https://arxiv.org/abs/2204.07143) (2022)
 63. [Learned Queries for Efficient Local Attention](https://arxiv.org/abs/2112.11435) (CVPR 2022 Oral)
+64. [Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space](https://arxiv.org/abs/2201.00814) (CVPR 2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
