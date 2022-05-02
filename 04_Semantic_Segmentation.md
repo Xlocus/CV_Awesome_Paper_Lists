@@ -24,3 +24,6 @@
 ## Semi-Supervised
 1. [ST++: Make Self-training Work Better for Semi-supervised Semantic Segmentation](https://arxiv.org/abs/2106.05095) (CVPR 2022)
 
+
+## Weekly-Supervised
+1.[Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation](https://arxiv.org/abs/2203.13505) (CVPR 2022)
