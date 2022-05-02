@@ -87,6 +87,7 @@
 56. [VSA: Learning Varied-Size Window Attention in Vision Transformers](https://arxiv.org/abs/2204.08446) (2022)
 57. [DeiT III: Revenge of the ViT](https://arxiv.org/abs/2204.07118) (2022)
 58. [SepViT: Separable Vision Transformer](https://arxiv.org/abs/2203.15380) (2022)
+59. [BOAT: Bilateral Local Attention Vision Transformer](https://arxiv.org/abs/2201.13027) (2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
