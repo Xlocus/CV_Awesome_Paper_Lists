@@ -110,6 +110,11 @@
 11. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2022)
 12. [An Image Patch is a Wave: Quantum Inspired Vision MLP](https://arxiv.org/abs/2111.12294) (CVPR 2022)
 
+
+## RNN
+1. [Sequencer: Deep LSTM for Image Classification](https://arxiv.org/abs/2205.01972) (2022)
+
+
 ## AutoEncoder
 1. [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) (2022)
 2. [SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886) (2022)
