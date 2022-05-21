@@ -27,6 +27,8 @@
 22. [On the Integration of Self-Attention and Convolution](https://arxiv.org/abs/2111.14556) (CVPR 2022)
 23. [Online Convolutional Re-parameterization](https://arxiv.org/abs/2204.00826) (CVPR 2022)
 24. [ResT V2: Simpler, Faster and Stronger](https://arxiv.org/abs/2204.07366) (2022)
+25. [FcaNet: Frequency Channel Attention Networks](https://arxiv.org/abs/2012.11879) (ICCV 2021)
+26. [PolyLoss: A Polynomial Expansion Perspective of Classification Loss Functions](https://arxiv.org/abs/2204.12511) (2022)
 
 ## Transformer
 1. [PSViT: Better Vision Transformer via Token Pooling and Attention Sharing](https://arxiv.org/abs/2108.03428) (2021)
