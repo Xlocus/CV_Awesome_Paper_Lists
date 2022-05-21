@@ -96,6 +96,7 @@
 63. [Learned Queries for Efficient Local Attention](https://arxiv.org/abs/2112.11435) (CVPR 2022 Oral)
 64. [Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space](https://arxiv.org/abs/2201.00814) (CVPR 2022)
 65. [MiniViT: Compressing Vision Transformers with Weight Multiplexing](https://arxiv.org/abs/2204.07154) (CVPR 2022)
+66. [EdgeViTs: Competing Light-weight CNNs on Mobile Devices with Vision Transformers](https://arxiv.org/abs/2205.03436) (2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
@@ -123,6 +124,7 @@
 
 ## Knowledge Distillation
 1. [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679) (CVPR 2022)
+2. [Knowledge distillation: A good teacher is patient and consistent](https://arxiv.org/abs/2106.05237) (2022)
 
 ## Self-Supervised Vision Transformer
 1. [An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.02057) (2021)
