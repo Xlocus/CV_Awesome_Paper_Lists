@@ -101,6 +101,7 @@
 68. [Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality](https://arxiv.org/abs/2205.10063) (2022)
 69. [Super Vision Transformer](https://arxiv.org/abs/2205.11397) (2022)
 70. [Inception Transformer](https://arxiv.org/abs/2205.12956) (2022)
+71. [Green Hierarchical Vision Transformer for Masked Image Modeling](https://arxiv.org/abs/2205.13515) (2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
