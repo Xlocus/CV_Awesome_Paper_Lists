@@ -9,6 +9,7 @@
 7. [Forecasting from LiDAR via Future Object Detection](https://arxiv.org/abs/2203.16297) (CVPR 2022)
 8. [BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation](https://arxiv.org/abs/2205.13542) (2022)
 9. [PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies](https://arxiv.org/abs/2206.04670) (2022)
+10. [Voxel Field Fusion for 3D Object Detection](https://arxiv.org/abs/2205.15938) (CVPR 2022)
 
 ## Monocular 3D Object Detection
 1. [Progressive Coordinate Transforms for Monocular 3D Object Detection](https://arxiv.org/abs/2108.05793) (ICCV 2021)
