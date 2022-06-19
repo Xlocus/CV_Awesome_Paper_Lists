@@ -121,6 +121,7 @@
 10. [CycleMLP: A MLP-like Architecture for Dense Prediction](https://arxiv.org/abs/2107.10224) (2022)
 11. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2022)
 12. [An Image Patch is a Wave: Quantum Inspired Vision MLP](https://arxiv.org/abs/2111.12294) (CVPR 2022)
+13. [Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs](https://arxiv.org/abs/2203.06717) (CVPR 2022)
 
 
 ## RNN
