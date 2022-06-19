@@ -29,6 +29,7 @@
 24. [ResT V2: Simpler, Faster and Stronger](https://arxiv.org/abs/2204.07366) (2022)
 25. [FcaNet: Frequency Channel Attention Networks](https://arxiv.org/abs/2012.11879) (ICCV 2021)
 26. [PolyLoss: A Polynomial Expansion Perspective of Classification Loss Functions](https://arxiv.org/abs/2204.12511) (2022)
+27. [Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs](https://arxiv.org/abs/2203.06717) (CVPR 2022)
 
 ## Transformer
 1. [PSViT: Better Vision Transformer via Token Pooling and Attention Sharing](https://arxiv.org/abs/2108.03428) (2021)
@@ -107,7 +108,7 @@
 74. [Separable Self-attention for Mobile Vision Transformers](https://arxiv.org/abs/2206.02680) (2022)
 75. [Optimizing Relevance Maps of Vision Transformers Improves Robustness](https://arxiv.org/abs/2206.01161) (2022)
 76. [X-ViT: High Performance Linear Vision Transformer without Softmax](https://arxiv.org/abs/2205.13805) (2022)
-77. [Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs](https://arxiv.org/abs/2203.06717) (CVPR 2022)
+77. 
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
