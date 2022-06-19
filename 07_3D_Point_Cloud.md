@@ -7,3 +7,4 @@
 6. [PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413) (2022)
 7. [Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds](https://arxiv.org/abs/2203.11139) (CVPR 2022)
 8. [Fast Point Transformer](https://arxiv.org/abs/2112.04702) (CVPR 2022)
+9. [SemAffiNet: Semantic-Affine Transformation for Point Cloud Segmentation](https://arxiv.org/abs/2205.13490) (CVPR 2022)
