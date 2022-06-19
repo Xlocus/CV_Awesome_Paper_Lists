@@ -30,6 +30,7 @@
 25. [FcaNet: Frequency Channel Attention Networks](https://arxiv.org/abs/2012.11879) (ICCV 2021)
 26. [PolyLoss: A Polynomial Expansion Perspective of Classification Loss Functions](https://arxiv.org/abs/2204.12511) (2022)
 27. [Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs](https://arxiv.org/abs/2203.06717) (CVPR 2022)
+28. [An Improved One millisecond Mobile Backbone](https://arxiv.org/abs/2206.04040) (2022)
 
 ## Transformer
 1. [PSViT: Better Vision Transformer via Token Pooling and Attention Sharing](https://arxiv.org/abs/2108.03428) (2021)
