@@ -34,6 +34,7 @@
  7. [Pix2seq: A Language Modeling Framework for Object Detection](https://arxiv.org/abs/2109.10852) (ICLR 2022)
  8. [ObjectFormer for Image Manipulation Detection and Localization](https://arxiv.org/abs/2203.14681) (CVPR 2022)
  9. [Vision Transformer Adapter for Dense Predictions](https://arxiv.org/abs/2205.08534) (2022)
+ 10. [BoxeR: Box-Attention for 2D and 3D Transformers](https://arxiv.org/abs/2111.13087) (CVPR 2022)
  
  
  ## Language Modeling
