@@ -20,6 +20,7 @@
 19. [Exploring Plain Vision Transformer Backbones for Object Detection](https://arxiv.org/abs/2203.16527) (2022)
 20. [CenterNet++ for Object Detection](https://arxiv.org/abs/2204.08394) (2022)
 21. [Dynamic Sparse R-CNN](https://arxiv.org/abs/2205.02101) (CVPR 2022)
+22. [QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection](https://arxiv.org/abs/2103.09136) (CVPR 2022)
  
  
  ## Transformer
