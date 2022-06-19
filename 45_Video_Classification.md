@@ -7,3 +7,4 @@
 6. [Efficient Video Transformers with Spatial-Temporal Token Selection](https://arxiv.org/abs/2111.11591) (2021)
 7. [AdaFocus V2: End-to-End Training of Spatial Dynamic Networks for Video Recognition](https://arxiv.org/abs/2112.14238) (2021)
 8. [Multiview Transformers for Video Recognition](https://arxiv.org/abs/2201.04288) (2022)
+9. [Masked Autoencoders As Spatiotemporal Learners](https://arxiv.org/abs/2205.09113) (CVPR 2022)
