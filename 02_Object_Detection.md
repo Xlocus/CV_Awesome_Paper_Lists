@@ -31,6 +31,7 @@
  6. [Recurrent Glimpse-based Decoder for Detection with Transformer](https://arxiv.org/abs/2112.04632) (2022)
  7. [Pix2seq: A Language Modeling Framework for Object Detection](https://arxiv.org/abs/2109.10852) (ICLR 2022)
  8. [ObjectFormer for Image Manipulation Detection and Localization](https://arxiv.org/abs/2203.14681) (CVPR 2022)
+ 9. [Vision Transformer Adapter for Dense Predictions](https://arxiv.org/abs/2205.08534) (2022)
  
  
  ## Language Modeling
