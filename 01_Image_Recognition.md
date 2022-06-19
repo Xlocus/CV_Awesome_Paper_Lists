@@ -104,6 +104,7 @@
 71. [Green Hierarchical Vision Transformer for Masked Image Modeling](https://arxiv.org/abs/2205.13515) (2022)
 72. [Fast Vision Transformers with HiLo Attention](https://arxiv.org/abs/2205.13213) (2022)
 73. [EfficientFormer: Vision Transformers at MobileNet Speed](https://arxiv.org/abs/2206.01191) (2022)
+74. [Separable Self-attention for Mobile Vision Transformers](https://arxiv.org/abs/2206.02680) (2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
