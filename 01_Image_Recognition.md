@@ -106,6 +106,7 @@
 73. [EfficientFormer: Vision Transformers at MobileNet Speed](https://arxiv.org/abs/2206.01191) (2022)
 74. [Separable Self-attention for Mobile Vision Transformers](https://arxiv.org/abs/2206.02680) (2022)
 75. [Optimizing Relevance Maps of Vision Transformers Improves Robustness](https://arxiv.org/abs/2206.01161) (2022)
+76. [X-ViT: High Performance Linear Vision Transformer without Softmax](https://arxiv.org/abs/2205.13805) (2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
