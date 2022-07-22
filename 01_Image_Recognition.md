@@ -111,6 +111,7 @@
 76. [X-ViT: High Performance Linear Vision Transformer without Softmax](https://arxiv.org/abs/2205.13805) (2022)
 77. [EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications](https://arxiv.org/abs/2206.10589) (2022)
 78. [A-ViT: Adaptive Tokens for Efficient Vision Transformer](https://arxiv.org/abs/2112.07658) (CVPR 2022 Oral)
+79. [Global Context Vision Transformers](https://arxiv.org/abs/2206.09959) (2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
