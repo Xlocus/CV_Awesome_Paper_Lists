@@ -26,3 +26,4 @@
 
 ## Multi-view 3D Object Detection
 1. [BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection](https://arxiv.org/abs/2206.10092) (2022)
+2. [Polar Parametrization for Vision-based Surround-View 3D Detection](https://arxiv.org/abs/2206.10965) (2022)
