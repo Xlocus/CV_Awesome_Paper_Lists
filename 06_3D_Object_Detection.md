@@ -29,3 +29,4 @@
 1. [BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection](https://arxiv.org/abs/2206.10092) (2022)
 2. [Polar Parametrization for Vision-based Surround-View 3D Detection](https://arxiv.org/abs/2206.10965) (2022)
 3. [SRCN3D: Sparse R-CNN 3D Surround-View Camera Object Detection and Tracking for Autonomous Driving](https://arxiv.org/abs/2206.14451) (2022)
+4. [PolarFormer: Multi-camera 3D Object Detection with Polar Transformers](https://arxiv.org/abs/2206.15398) (2022)
