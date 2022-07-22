@@ -8,3 +8,4 @@
 7. [AdaFocus V2: End-to-End Training of Spatial Dynamic Networks for Video Recognition](https://arxiv.org/abs/2112.14238) (2021)
 8. [Multiview Transformers for Video Recognition](https://arxiv.org/abs/2201.04288) (2022)
 9. [Masked Autoencoders As Spatiotemporal Learners](https://arxiv.org/abs/2205.09113) (2022)
+10. [MaskViT: Masked Visual Pre-Training for Video Prediction](https://arxiv.org/abs/2206.11894) (2022)
