@@ -11,6 +11,7 @@
 9. [PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies](https://arxiv.org/abs/2206.04670) (2022)
 10. [Voxel Field Fusion for 3D Object Detection](https://arxiv.org/abs/2205.15938) (CVPR 2022)
 11. [SparseDet: Towards End-to-End 3D Object Detection](https://arxiv.org/abs/2206.00960) (2022)
+12. [bridged transformer for vision and point cloud 3d object detection](https://fengxianghe.github.io/paper/wang2022bridged.pdf) (CVPR 2022)
 
 ## Monocular 3D Object Detection
 1. [Progressive Coordinate Transforms for Monocular 3D Object Detection](https://arxiv.org/abs/2108.05793) (ICCV 2021)
