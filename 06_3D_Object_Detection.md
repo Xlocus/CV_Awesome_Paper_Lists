@@ -23,3 +23,6 @@
 ## RGB Video
 1. [ODAM: Object Detection, Association, and Mapping using Posed RGB Video](https://arxiv.org/abs/2108.10165) (ICCV 2021 Oral)
 2. 
+
+## Multi-view 3D Object Detection
+1. [BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection](https://arxiv.org/abs/2206.10092) (2022)
