@@ -7,5 +7,5 @@
 ## Multi-Pedestrian Tracking
 1. [BoT-SORT: Robust Associations Multi-Pedestrian Tracking](https://arxiv.org/abs/2206.14651) (2022)
 
-
-
+## Semi-supervised
+1. [SJDL-Vehicle: Semi-supervised Joint Defogging Learning for Foggy Vehicle Re-identification](https://ojs.aaai.org/index.php/AAAI/article/view/19911) (AAAI 2022)
