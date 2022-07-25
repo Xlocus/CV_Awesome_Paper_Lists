@@ -54,12 +54,19 @@
 1. [LGD: Label-guided Self-distillation for Object Detection](https://arxiv.org/abs/2109.11496) (2021)
 2. [Localization Distillation for Dense Object Detection](https://arxiv.org/abs/2102.12252) (2022)
 
+
 ## Self-Supervised Learning
 1. [Localizing Objects with Self-Supervised Transformers and no Labels](https://arxiv.org/abs/2109.14279) (2021)
 2. [Self-Supervised Object Detection via Generative Image Synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Mustikovela_Self-Supervised_Object_Detection_via_Generative_Image_Synthesis_ICCV_2021_paper.pdf) (ICCV 2021)
 
+
+## Semi-supervised
+1. [Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection](https://arxiv.org/abs/2207.02541) (ECCV 2022)
+
+
 ## Active Learning
 1. [Active Learning for Deep Object Detection via Probabilistic Modeling](https://arxiv.org/abs/2103.16130) (ICCV 2021)
+
 
 ## Others
 1. [CDNet: A Real-Time and Robust Crosswalk Detection Network on Jetson Nano Based on YOLOv5](https://rdcu.be/cHuc8) (Neural Computing and Application)
