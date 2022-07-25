@@ -33,6 +33,7 @@
 28. [An Improved One millisecond Mobile Backbone](https://arxiv.org/abs/2206.04040) (2022)
 29. [On-Device Training Under 256KB Memory](https://arxiv.org/abs/2206.15472) (2022)
 30. [More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity](https://arxiv.org/abs/2207.03620) (2022)
+31. [GhostNets on Heterogeneous Devices via Cheap Operations](https://arxiv.org/abs/2201.03297) (IJCV 2022)
 
 ## Transformer
 1. [PSViT: Better Vision Transformer via Token Pooling and Attention Sharing](https://arxiv.org/abs/2108.03428) (2021)
