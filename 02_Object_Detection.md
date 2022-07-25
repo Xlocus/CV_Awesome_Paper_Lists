@@ -25,6 +25,10 @@
 24. [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696) (2022)
  
  
+ ## Anchor Free
+ 1. [ObjectBox: From Centers to Boxes for Anchor-Free Object Detection](https://arxiv.org/abs/2207.06985) (ECCV 2022 Oral)
+ 
+ 
  ## Transformer
  1. [Benchmarking Detection Transfer Learning with Vision Transformers](https://arxiv.org/abs/2111.11429) (2021)
  2. [A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation](https://arxiv.org/abs/2112.09747) (2021)
