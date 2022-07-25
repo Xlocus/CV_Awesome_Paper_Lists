@@ -147,6 +147,7 @@
 ## Knowledge Distillation
 1. [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679) (CVPR 2022)
 2. [Knowledge distillation: A good teacher is patient and consistent](https://arxiv.org/abs/2106.05237) (2022)
+3. [Masked Generative Distillation](https://arxiv.org/abs/2205.01529) (ECCV 2022)
 
 ## Self-Supervised Vision Transformer
 1. [An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.02057) (2021)
