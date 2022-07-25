@@ -45,6 +45,7 @@
  12. [Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios](https://arxiv.org/abs/2207.05501) (2022)
  13. [Exploring Plain Vision Transformer Backbones for Object Detection](https://arxiv.org/abs/2203.16527) (2022)
  14. [Efficient Decoder-free Object Detection with Transformers](https://arxiv.org/abs/2206.06829) (2022)
+ 15. [Conditional DETR V2: Efficient Detection Transformer with Box Queries](https://arxiv.org/abs/2207.08914) (2022)
  
  
  ## Language Modeling
