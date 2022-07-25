@@ -23,6 +23,7 @@
 22. [QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection](https://arxiv.org/abs/2103.09136) (CVPR 2022)
 23. [SIoU Loss: More Powerful Learning for Bounding Box Regression](https://arxiv.org/abs/2205.12740) (2022)
 24. [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696) (2022)
+25. [You Should Look at All Objects](https://arxiv.org/abs/2207.07889) (ECCV 2022)
  
  
  ## Anchor Free
