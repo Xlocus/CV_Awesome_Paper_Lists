@@ -8,3 +8,4 @@
 7. [A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution](https://arxiv.org/abs/2203.09388) (CVPR 2022)
 8. [Rich CNN-Transformer Feature Aggregation Networks for Super-Resolution](https://arxiv.org/abs/2203.07682) (2022)
 9. [AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos](https://arxiv.org/abs/2206.07038) (2022)
+10. [ARM: Any-Time Super-Resolution Method](https://arxiv.org/abs/2203.10812) (ECCV 2022)
