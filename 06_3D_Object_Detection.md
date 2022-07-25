@@ -15,6 +15,7 @@
 13. [TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Bai_TransFusion_Robust_LiDAR-Camera_Fusion_for_3D_Object_Detection_With_Transformers_CVPR_2022_paper.pdf) (CVPR 2022)
 14. [DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection](https://arxiv.org/abs/2203.08195) (CVPR 2022)
 15. [V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer](https://arxiv.org/abs/2203.10638) (2022)
+16. [Rethinking IoU-based Optimization for Single-stage 3D Object Detection](https://arxiv.org/abs/2207.09332) (ECCV 2022)
 
 ## Monocular 3D Object Detection
 1. [Progressive Coordinate Transforms for Monocular 3D Object Detection](https://arxiv.org/abs/2108.05793) (ICCV 2021)
