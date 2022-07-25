@@ -37,6 +37,7 @@
  9. [Vision Transformer Adapter for Dense Predictions](https://arxiv.org/abs/2205.08534) (2022)
  10. [BoxeR: Box-Attention for 2D and 3D Transformers](https://arxiv.org/abs/2111.13087) (CVPR 2022)
  11. [k-means Mask Transformer](https://arxiv.org/abs/2207.04044) (ECCV 2022)
+ 12. [Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios](https://arxiv.org/abs/2207.05501) (2022)
  
  
  ## Language Modeling
