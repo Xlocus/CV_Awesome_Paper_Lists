@@ -23,7 +23,8 @@
 3. [Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather](https://arxiv.org/abs/2108.05249) (ICCV 2021)
 4. [Geometry Uncertainty Projection Network for Monocular 3D Object Detection](https://arxiv.org/abs/2107.13774) (ICCV 2021)
 5. [Benchmarking the Robustness of LiDAR-Camera Fusion for 3D Object Detection](https://arxiv.org/abs/2205.14951) (2022)
-6. 
+6. [Monocular 3D Object Detection with Depth from Motion](https://arxiv.org/abs/2207.12988) (ECCV 2022 Oral)
+7. 
 
 ## RGB Video
 1. [ODAM: Object Detection, Association, and Mapping using Posed RGB Video](https://arxiv.org/abs/2108.10165) (ICCV 2021 Oral)
