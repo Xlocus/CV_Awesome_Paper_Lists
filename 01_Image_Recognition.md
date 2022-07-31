@@ -119,6 +119,7 @@
 80. [EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications](https://arxiv.org/abs/2206.10589) (2022)
 81. [MaxViT: Multi-Axis Vision Transformer](https://arxiv.org/abs/2204.01697) (2022)
 82. [Lightweight Vision Transformer with Cross Feature Attention](https://arxiv.org/abs/2207.07268) (2022)
+83. [TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers](https://arxiv.org/abs/2207.08409) (ECCV 2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
