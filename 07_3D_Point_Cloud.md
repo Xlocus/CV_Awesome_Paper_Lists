@@ -8,3 +8,4 @@
 7. [Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds](https://arxiv.org/abs/2203.11139) (CVPR 2022)
 8. [Fast Point Transformer](https://arxiv.org/abs/2112.04702) (CVPR 2022)
 9. [SemAffiNet: Semantic-Affine Transformation for Point Cloud Segmentation](https://arxiv.org/abs/2205.13490) (CVPR 2022)
+10. [Masked Discrimination for Self-Supervised Learning on Point Clouds](https://arxiv.org/abs/2203.11183) (2022)
