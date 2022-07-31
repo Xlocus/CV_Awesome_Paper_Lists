@@ -7,3 +7,4 @@
 6. [End-to-End Referring Video Object Segmentation with Multimodal Transformers](https://arxiv.org/abs/2111.14821) (2022)
 7. [Language as Queries for Referring Video Object Segmentation](https://arxiv.org/abs/2201.00487) (CVPR 2022)
 8. [XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model](https://arxiv.org/abs/2207.07115) (ECCV 2022)
+9. [In Defense of Online Models for Video Instance Segmentation](https://arxiv.org/abs/2207.10661) (ECCV 2022 Oral)
