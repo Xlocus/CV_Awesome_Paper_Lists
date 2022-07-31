@@ -46,6 +46,7 @@
  13. [Exploring Plain Vision Transformer Backbones for Object Detection](https://arxiv.org/abs/2203.16527) (2022)
  14. [Efficient Decoder-free Object Detection with Transformers](https://arxiv.org/abs/2206.06829) (2022)
  15. [Conditional DETR V2: Efficient Detection Transformer with Box Queries](https://arxiv.org/abs/2207.08914) (2022)
+ 16. [Towards Data-Efficient Detection Transformers](https://arxiv.org/abs/2203.09507) (2022)
  
  
  ## Language Modeling
