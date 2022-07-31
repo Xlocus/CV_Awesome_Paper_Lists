@@ -64,6 +64,7 @@
 
 ## Semi-supervised
 1. [Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection](https://arxiv.org/abs/2207.02541) (ECCV 2022)
+2. [PseCo: Pseudo Labeling and Consistency Training for Semi-Supervised Object Detection](https://arxiv.org/abs/2203.16317) (ECCV 2022)
 
 
 ## Active Learning
