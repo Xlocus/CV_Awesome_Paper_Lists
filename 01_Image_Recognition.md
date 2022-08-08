@@ -178,6 +178,7 @@
 ## Fine-grained Visual Recognition
 1. [A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition](https://arxiv.org/abs/2110.01240) (2021)
 2. [Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information](https://arxiv.org/abs/2203.03253) (CVPR 2022)
+3. [Improving Fine-Grained Visual Recognition in Low Data Regimes via Self-Boosting Attention Mechanism](https://arxiv.org/abs/2208.00617) (ECCV 2022)
 
 ## Self-supervised
 1. [SiT: Self-supervised vIsion Transformer](https://arxiv.org/abs/2104.03602) (2021)
