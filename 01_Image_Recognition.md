@@ -124,6 +124,7 @@
 85. [MaxViT: Multi-Axis Vision Transformer](https://arxiv.org/abs/2204.01697) (ECCV 2022)
 86. [HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions](https://arxiv.org/abs/2207.14284) (2022)
 87. [SP-ViT: Learning 2D Spatial Priors for Vision Transformers](https://arxiv.org/abs/2206.07662) (2022)
+88. [Sliced Recursive Transformer](https://arxiv.org/abs/2111.05297) (ECCV 2022)
 
 ## MLP
 1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391) (2021)
