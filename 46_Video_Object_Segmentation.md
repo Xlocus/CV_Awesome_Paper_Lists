@@ -10,3 +10,4 @@
 9. [In Defense of Online Models for Video Instance Segmentation](https://arxiv.org/abs/2207.10661) (ECCV 2022 Oral)
 10. [VISOLO: Grid-Based Space-Time Aggregation for Efficient Online Video Instance Segmentation](https://arxiv.org/abs/2112.04177) (2022)
 11. [SeqFormer: Sequential Transformer for Video Instance Segmentation](https://arxiv.org/abs/2112.08275) (ECCV 2022 Oral)
+12. [MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training](https://arxiv.org/abs/2208.02245) (2022)
