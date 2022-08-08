@@ -4,6 +4,7 @@
 2. [Learning Open-World Object Proposals without Learning to Classify](https://arxiv.org/abs/2108.06753) (2021)
 3. [OW-DETR: Open-world Detection Transformer](https://arxiv.org/abs/2112.01513) (2021)
 4. [Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild](https://arxiv.org/abs/2203.03800) (CVPR 2022)
+5. [PromptDet: Towards Open-vocabulary Detection using Uncurated Images](https://arxiv.org/abs/2203.16513) (ECCV 2022)
 
 
 ## Open Set Action Recognition
