@@ -35,6 +35,7 @@
 30. [More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity](https://arxiv.org/abs/2207.03620) (2022)
 31. [GhostNets on Heterogeneous Devices via Cheap Operations](https://arxiv.org/abs/2201.03297) (IJCV 2022)
 32. [CMT: Convolutional Neural Networks Meet Vision Transformers](https://arxiv.org/abs/2107.06263) (CVPR 2022)
+33. [AutoMix: Unveiling the Power of Mixup for Stronger Classifiers](https://arxiv.org/abs/2103.13027) (ECCV 2022 Oral)
 
 ## Transformer
 1. [PSViT: Better Vision Transformer via Token Pooling and Attention Sharing](https://arxiv.org/abs/2108.03428) (2021)
