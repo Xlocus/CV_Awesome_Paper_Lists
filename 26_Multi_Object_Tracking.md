@@ -3,6 +3,7 @@
 2. [Prototypical Cross-Attention Networks for Multiple Object Tracking and Segmentation](https://arxiv.org/abs/2106.11958) (2021)
 3. [PatchTrack: Multiple Object Tracking Using Frame Patches](https://arxiv.org/abs/2201.00080) (2022)
 4. [Towards Grand Unification of Object Tracking](https://arxiv.org/abs/2207.07078) (ECCV2022 Oral)
+5. [Robust Multi-Object Tracking by Marginal Inference](https://arxiv.org/abs/2208.03727) (ECCV 2022)
 
 ## Multi-Pedestrian Tracking
 1. [BoT-SORT: Robust Associations Multi-Pedestrian Tracking](https://arxiv.org/abs/2206.14651) (2022)
