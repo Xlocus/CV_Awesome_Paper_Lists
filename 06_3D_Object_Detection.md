@@ -16,6 +16,7 @@
 14. [DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection](https://arxiv.org/abs/2203.08195) (CVPR 2022)
 15. [V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer](https://arxiv.org/abs/2203.10638) (2022)
 16. [Rethinking IoU-based Optimization for Single-stage 3D Object Detection](https://arxiv.org/abs/2207.09332) (ECCV 2022)
+17. [Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph](https://arxiv.org/abs/2208.03624) (ECCV 2022 Oral)
 
 ## Monocular 3D Object Detection
 1. [Progressive Coordinate Transforms for Monocular 3D Object Detection](https://arxiv.org/abs/2108.05793) (ICCV 2021)
