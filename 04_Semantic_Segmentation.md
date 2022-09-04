@@ -21,7 +21,7 @@
 6. [Pyramid Fusion Transformer for Semantic Segmentation](https://arxiv.org/abs/2201.04019) (2022)
 7. [GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/abs/2202.11094) (2022)
 8. [TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation](https://arxiv.org/abs/2204.05525) (CVPR 2022)
-9. 
+9. [Interlaced Sparse Self-Attention for Semantic Segmentation](https://arxiv.org/abs/1907.12273) (2021)
 
 ## Semi-Supervised
 1. [ST++: Make Self-training Work Better for Semi-supervised Semantic Segmentation](https://arxiv.org/abs/2106.05095) (CVPR 2022)
