@@ -194,4 +194,6 @@
 ## Semi-supervised
 1. [Semi-supervised Vision Transformers at Scale](https://arxiv.org/abs/2208.05688) (2022)
 
+## Pretraining
+1. [MILAN: Masked Image Pretraining on Language Assisted Representation](https://arxiv.org/abs/2208.06049) (2022)
 
