@@ -190,4 +190,7 @@
 ## Small Datasets
 1. [Efficient Training of Visual Transformers with Small Datasets](https://arxiv.org/abs/2106.03746) (2021)
 
+## Semi-supervised
+1. [Semi-supervised Vision Transformers at Scale](https://arxiv.org/abs/2208.05688) (2022)
+
 
