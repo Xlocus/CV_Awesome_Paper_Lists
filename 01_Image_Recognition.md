@@ -37,6 +37,7 @@
 32. [CMT: Convolutional Neural Networks Meet Vision Transformers](https://arxiv.org/abs/2107.06263) (CVPR 2022)
 33. [AutoMix: Unveiling the Power of Mixup for Stronger Classifiers](https://arxiv.org/abs/2103.13027) (ECCV 2022 Oral)
 34. [Scaling Local Self-Attention for Parameter Efficient Visual Backbones](https://arxiv.org/abs/2103.12731) (CVPR 2021 Oral)
+35. [HAM: Hybrid attention module in deep convolutional neural networks for image classification](https://www.sciencedirect.com/science/article/abs/pii/S0031320322002667?via%3Dihub) (Pattern Recognition 2022)
 
 ## Transformer
 1. [PSViT: Better Vision Transformer via Token Pooling and Attention Sharing](https://arxiv.org/abs/2108.03428) (2021)
