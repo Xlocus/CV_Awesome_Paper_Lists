@@ -11,3 +11,4 @@
 10. [MaskViT: Masked Visual Pre-Training for Video Prediction](https://arxiv.org/abs/2206.11894) (2022)
 11. [MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition](https://arxiv.org/abs/2201.08383) (2022)
 12. [Expanding Language-Image Pretrained Models for General Video Recognition](https://arxiv.org/abs/2208.02816) (ECCV 2022 Oral)
+13. [Video Mobile-Former: Video Recognition with Efficient Global Spatial-temporal Modeling](https://arxiv.org/abs/2208.12257) (2022)
