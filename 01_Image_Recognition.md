@@ -154,6 +154,7 @@
 1. [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) (2022)
 2. [SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886) (2022)
 3. [ConvMAE: Masked Convolution Meets Masked Autoencoders](https://arxiv.org/abs/2205.03892) (2022)
+4. [BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers](https://arxiv.org/abs/2208.06366) (2022)
 
 ## Knowledge Distillation
 1. [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679) (CVPR 2022)
