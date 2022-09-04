@@ -49,6 +49,8 @@
  15. [Conditional DETR V2: Efficient Detection Transformer with Box Queries](https://arxiv.org/abs/2207.08914) (2022)
  16. [Towards Data-Efficient Detection Transformers](https://arxiv.org/abs/2203.09507) (2022)
  
+ ## Single Point Supervision
+ 1. [Point-to-Box Network for Accurate Object Detection via Single Point Supervision](https://arxiv.org/abs/2207.06827) (ECCV 2022)
  
  ## Language Modeling
 1. [Pix2seq: A Language Modeling Framework for Object Detection](https://arxiv.org/abs/2109.10852) (2021)
